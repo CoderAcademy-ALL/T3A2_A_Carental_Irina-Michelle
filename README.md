@@ -30,3 +30,11 @@ Miro
 Trello
 GitHub
 Discord
+
+**R2 Dataflow Diagram**
+
+![Data Flow Diagram](docs/Rental_Car_Application_DFD_Final.jpg)
+
+**R3 Application Architecture Diagram**
+
+![Application Architecture Diagram](docs/Rental_Car_AAD.jpg)
