@@ -23,11 +23,11 @@ Both the user and owner are able to cancel a booking simply by going into their 
 
 **Target Audience:**
 
-- NSW residence.
+- Australian residence.
 
-- Owners and users can be anyone over 21 years of age who has a full current Australian drivers licence living in NSW.
+- Owners and users can be anyone over 21 years of age who has a full current Australian drivers license.
 
-- Owners must own a car which is registered in NSW.
+- Owners must own their car and it must be registered.
 
 **Tech Stack:**
 
@@ -86,6 +86,24 @@ Standard Tablet Wireframes:
 ![2 Standard Tablet Wireframes](docs/tablet2_wf.png)
 
 ![3 Standard Tablet Wireframes](docs/tablet3_wf.png)
+
+Brainstorming sketches for wireframes:
+
+![Brainstorming sketch 1](docs/sketch1.png)
+
+![Brainstorming sketch 2](docs/sketch2.png)
+
+![Brainstorming sketch 3](docs/sketch3.png)
+
+![Brainstorming sketch 4](docs/sketch4.png)
+
+![Brainstorming sketch 5](docs/sketch5.png)
+
+![Brainstorming sketch 6](docs/sketch6.png)
+
+Colour Palette for inspiration for website:
+
+![Colour Palette](docs/colour%20palette.png)
 
 **R6 Trello Boards**
 
