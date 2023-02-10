@@ -33,23 +33,28 @@ Both the user and owner are able to cancel a booking simply by going into their 
 
 - Javascript
 - MongoDB
-- Mongoose
 - React
 - HTML
 - CSS
 - material ui
-- Express
 - Node JS
+- Mongoose
+- Express
 
-**R2 Dataflow Diagram:**
+**Project Management Tools:**
 
-![Data Flow Diagram](docs/Rental_Car_Application_DFD_Final.jpg)
+- Miro
+- Trello
 
-**R3 Application Architecture Diagram:**
+**R2 Dataflow Diagram**
+
+![Data Flow Diagram](docs/Rental_Car_App_DFD_Final.jpg)
+
+**R3 Application Architecture Diagram**
 
 ![Application Architecture Diagram](docs/Rental_Car_AAD.jpg)
 
-**R4 User Stories:**
+**R4 User Stories**
 
 Users Stories:
 
@@ -59,7 +64,7 @@ Owners Stories:
 
 ![Owners Stories](docs/owner_stories.png)
 
-**R5 Wireframes:**
+**R5 Wireframes**
 
 Standard Desktop Wireframes:
 
