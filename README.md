@@ -1,40 +1,110 @@
 # T3A2_A Carental Irina and Michelle
 
-Car Rental APP
+**CARENTAL** A car rental APP
 
 **R1 Description of your website**
 
 **Purpose:**
 
-Carental is the new way to rent a car. We want to make car sharing simple to use, cost-effective, and environmentally friendly.
+Carental is the new way to rent a car. We want to make car sharing simple to use, cost-effective and environmentally friendly.
 
-Care owner can share their cars with others when they are in use and earn some extra income.
+Car owners can share their cars with others when they are not in use and earn some extra income.
 For the users, no need to hire a car for a location that you can't necessarily get to or pay expensive hiring fees, just rent one from someone in your area. It's as simple as that.
 
 **Functionality/ Features:**
 
-As a user wanting to hire a car, simply search by location and date needed and book the car you want. The owner will confirm the booking and you're good to go. Rate the car once your booking is complete.
+As a user wanting to hire a car, simply search by location and by the date required and book the car you want. The owner will confirm the booking and you're good to go. Rate the car once your booking is complete.
 
-As a car owner, list your car and it's availability for hire. Approve the booking request and rate the user.
+As a car owner, list your car and its availability for hire. Approve the booking request and rate the user.
 
-This app will allow the car owner to add images of their car, select special features such as sun roof, child seat, etc and set the price per day.
+This app will allow the car owner to add images of their car, select special features such as transmission and set the price per day.
+
+Both the user and owner are able to cancel a booking simply by going into their profile, selecting the booking they wish to cancel and pressing a cancel button.
 
 **Target Audience:**
 
-Owners = Anyone over 21 years of age (has a current drivers license) who owns a car and that car is less than 10 years old and registered.
+- NSW residence.
 
-Users = Anyone over 21 years of age who has a current drivers license.
+- Owners and users can be anyone over 21 years of age who has a full current Australian drivers licence living in NSW.
 
-**Tech Stack**
-Miro
-Trello
-GitHub
-Discord
+- Owners must own a car which is registered in NSW.
 
-**R2 Dataflow Diagram**
+**Tech Stack:**
+
+- Javascript
+- MongoDB
+- Mongoose
+- React
+- HTML
+- CSS
+- material ui
+- Express
+- Node JS
+
+**R2 Dataflow Diagram:**
 
 ![Data Flow Diagram](docs/Rental_Car_Application_DFD_Final.jpg)
 
-**R3 Application Architecture Diagram**
+**R3 Application Architecture Diagram:**
 
 ![Application Architecture Diagram](docs/Rental_Car_AAD.jpg)
+
+**R4 User Stories:**
+
+Users Stories:
+
+![Users Stories](docs/user_stories.png)
+
+Owners Stories:
+
+![Owners Stories](docs/owner_stories.png)
+
+**R5 Wireframes:**
+
+Standard Desktop Wireframes:
+
+![1 Standard Desktop Wireframes](docs/desktop1_wf.png)
+
+![2 Standard Desktop Wireframes](docs/desktop2_wf.png)
+
+Standard Phone Wireframes:
+
+![Standard Phone Wireframes](docs/phone_wf.png)
+
+![1 Standard Phone Wireframes](docs/phone1_wf.png)
+
+![2 Standard Phone Wireframes](docs/phone2_wf.png)
+
+![3 Standard Phone Wireframes](docs/phone3_wf.png)
+
+Standard Tablet Wireframes:
+
+![Standard Tablet Wireframes](docs/tablet_wf.png)
+
+![1 Standard Tablet Wireframes](docs/tablet1_wf.png)
+
+![2 Standard Tablet Wireframes](docs/tablet2_wf.png)
+
+![3 Standard Tablet Wireframes](docs/tablet3_wf.png)
+
+**R6 Trello Boards**
+
+Created Trello board with initial tasks for Part A of project:
+![1 Trello](docs/TrelloA_1.png)
+
+Added colour labels for each section "To do", "In Progress" and "Done". Also added users to specific cards:
+![2 Trello](docs/TrelloA_2.png)
+
+Added checklists for some of the cards, for example the README where we were to divide the tasks between us:
+![3 Trello](docs/TrelloA_3.png)
+
+Added a second label colour once we added Part B tasks so that we knew which belonged to Part A (purple) and which belonged to Part B (blue):
+![4 Trello](docs/TrelloA_4.png)
+
+Added our initials to tasks on the checklists so we knew who was going to complete which requirement:
+![5 Trello](docs/TrelloA_5.png)
+
+![6 Trello](docs/TrelloA_6.png)
+
+Part A almost completed. Part B in progress:
+![7 Trello](docs/TrelloA_7.png)
