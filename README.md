@@ -110,7 +110,7 @@ Brainstorming sketches for wireframes:
 
 Colour Palette for inspiration for website:
 
-![Colour Palette](docs/colour%20palette.png)
+![Colour Palette](docs/colour_palette.png)
 
 **R6 Trello Boards**
 
