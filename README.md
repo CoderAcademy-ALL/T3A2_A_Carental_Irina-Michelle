@@ -2,6 +2,8 @@
 
 **CARENTAL** A car rental APP
 
+[Github repository](https://github.com/MichelleOha/T3A2_A_Carental_Irina-Michelle)
+
 **R1 Description of your website**
 
 **Purpose:**
@@ -68,13 +70,13 @@ Owners Stories:
 
 Standard Desktop Wireframes:
 
-![1 Standard Desktop Wireframes](docs/desktop1_wf.png)
+![1 Standard Desktop Wireframes](docs/desktop1_wf.jpg)
 
-![2 Standard Desktop Wireframes](docs/desktop2_wf.png)
+![2 Standard Desktop Wireframes](docs/desktop2_wf.jpg)
 
 Standard Phone Wireframes:
 
-![Standard Phone Wireframes](docs/phone_wf.png)
+![Standard Phone Wireframes](docs/phone_wf.jpg)
 
 ![1 Standard Phone Wireframes](docs/phone1_wf.png)
 
@@ -84,7 +86,7 @@ Standard Phone Wireframes:
 
 Standard Tablet Wireframes:
 
-![Standard Tablet Wireframes](docs/tablet_wf.png)
+![Standard Tablet Wireframes](docs/tablet_wf.jpg)
 
 ![1 Standard Tablet Wireframes](docs/tablet1_wf.png)
 
@@ -112,6 +114,8 @@ Colour Palette for inspiration for website:
 
 **R6 Trello Boards**
 
+[Trello board](https://trello.com/b/MIjLtO2T/carental-application)
+
 Created Trello board with initial tasks for Part A of project:
 ![1 Trello](docs/TrelloA_1.png)
 
@@ -130,4 +134,5 @@ Added our initials to tasks on the checklists so we knew who was going to comple
 ![6 Trello](docs/TrelloA_6.png)
 
 Part A almost completed. Part B in progress:
-![7 Trello](docs/TrelloA_7.png)
+![7 Trello](docs/TrelloA_7_1.png)
+![7 Trello](docs/TrelloA_7_2.png)
